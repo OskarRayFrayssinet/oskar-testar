@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="jxh{4PmPwiGxH!h{f(,o" x="0" y="0"></block><block type="gameinterval" id="gy;sLPk`uUkBZm|1@6q-" x="270" y="90"><value name="period"><shadow type="timePicker" id="G%Hjdm.d6q;sJ^_Qh==k"><field name="ms">500</field></shadow></value></block></xml>
